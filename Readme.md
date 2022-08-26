@@ -1,0 +1,1 @@
+ini di gunakan  untuk mempelajari apa yang ada pada alta.id 
