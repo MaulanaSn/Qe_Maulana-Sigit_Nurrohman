@@ -1,1 +1,1 @@
-ini di gunakan  untuk mempelajari apa yang ada pada alta.id 
+Repository ini digunakan untuk merangkum task-task yang ada pada alta.id
