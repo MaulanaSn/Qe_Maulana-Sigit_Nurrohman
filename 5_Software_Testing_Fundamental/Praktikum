@@ -1,11 +1,15 @@
-public class CalculatorServicesImpl {
-     public add (int a, int b) {\
-     int c = a + b;
-     retrun c;
-    }
-    public int subract(int a, int b){
-        int c = a + b;
-        retrun c;
-    }
+                        #### PRAKTIKUM SLIDE 28 ####
+                        
+Com.hascode.tutorial.entity 
+Line coverage 67%: 6/9
+Mutation coverage 67%: 2/3
+Laporan hasil menunjukkan bahwa memang telah mencapai skor 67% untuk line coverage, 
+namun versi kode sumber yang mutation coverage masih berhasil melewati dua tes unit ini.
 
-}
+Com.hascode.tutorial.service
+Line coverage 100%: 6/6
+Mutation coverage 75%: 3/4
+Laporan hasil menunjukkan bahwa memang telah mencapai skor 100% untuk line coverage,
+namun versi kode sumber yang mutation coverage masih berhasil melewati dua tes unit ini.
+
+
