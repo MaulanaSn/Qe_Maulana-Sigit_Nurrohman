@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registrasi</title>
+</head>
+<body>
+    <form action="welcome.html" method="POST">
+        <h1><b>Buat Account Baru!</b></h1>
+     
+        <legend><b>Sign Up From</b></legend>
+        <p>
+            <label>First Nama:</label><br>
+            <input type="text" name="nama"  />
+        </p>
+        <p>
+            <label>Last Name:</label><br>
+            <input type="text" name="username"  />
+        </p>
+        <p>
+            <label>Gender:</label><br>
+            <label><input type="radio" name="jenis_kelamin" value="laki-laki" /> Laki-laki</label><br>
+            <label><input type="radio" name="jenis_kelamin" value="perempuan" /> Perempuan</label><br>
+        </p>
+        <p>
+            <label>Nasionality:</label><br>
+            <select name="Nasionality">
+                <option value="Indonesia">Indonesia</option>
+                <option value="Malaysia">Malaysia</option>
+                <option value="Singapura">Singapura</option>
+                <option value="Vietnam">Vietnam</option>
+                <option value="Jepang">Jepang</option>
+                <option value="Thailand">Thailand</option>
+            </select>
+        </p>
+        <p>
+            <label>Language Spoken:</label><br>
+            <label><input type="checkbox" name="Bahasa" value="Bahasa Indonesia" /> Bahasa Indonesia</label><br>
+            <label><input type="checkbox" name="Bahasa" value="English" /> English</label><br>
+            <label><input type="checkbox" name="Bahasa" value="Other" /> Other</label><br>
+        </p>
+        <p>
+            <label>Bio:</label><br>
+            <textarea name="biografi"></textarea>
+        </p>
+        <p>
+            <input type="submit" name="submit" value="Sign Up" />
+        </p>
+        
+    </form>
+</body>
+</html>
