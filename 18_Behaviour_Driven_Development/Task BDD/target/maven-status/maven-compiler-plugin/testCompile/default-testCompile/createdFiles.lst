@@ -1,0 +1,5 @@
+Starter\stepdefinitions\User\LoginStep.class
+Starter\stepdefinitions\User\SigninStep.class
+Starter\stepdefinitions\User\SearchForJobStep.class
+Starter\CucumberTestSuite.class
+Starter\stepdefinitions\User\LogoutStep.class
